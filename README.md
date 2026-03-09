@@ -60,19 +60,13 @@ The non-convex optimisation problem is solved using a **Block Successive Convex 
 
 ## System Model
 
-```
-         AP (Ground)
-          |
-          |  (blocked direct link)
-          |
-        [UIRS]  <-- UAV-mounted IRS (THz passive relay + beamforming)
-          |  \
-          |   \--- Bob (scheduled UE, confidential receiver)
-          |
-        [UCJ]   <-- UAV-mounted Cooperative Jammer (AN generation)
-          |
-         Willies (unscheduled UEs / potential adversaries)
-```
+<p align="center">
+  <img src="figures/system_model.png" width="650"/>
+</p>
+
+<p align="center">
+  <em>Figure 1: UIRS-assisted THz covert communication system model.</em>
+</p>
 
 The UIRS and UCJ fly at fixed altitudes `Hr` and `Hj` respectively, over a mission of `T` seconds discretised into `N` time slots under a TDMA scheduling protocol.
 
