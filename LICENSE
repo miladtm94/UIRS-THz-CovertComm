@@ -1,6 +1,13 @@
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2026 Milad
+=======
+Copyright (c) 2023 Milad Tatar Mamaghani and Yi Hong
+Department of Electrical and Computer Systems Engineering
+Faculty of Engineering, Monash University
+Melbourne, VIC 3800, Australia
+>>>>>>> 3c828da (Adding simulation files)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +26,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+<<<<<<< HEAD
+=======
+
+-------------------------------------------------------------------------------
+Third-Party Notices:
+- CVX (http://cvxr.com/cvx/) is used for convex optimization. CVX is subject
+  to its own licensing terms; please review them at http://cvxr.com/cvx/license/
+- MOSEK (https://www.mosek.com/) is used as the preferred CVX backend solver
+  and is subject to its own commercial/academic licensing terms.
+-------------------------------------------------------------------------------
+>>>>>>> 3c828da (Adding simulation files)
