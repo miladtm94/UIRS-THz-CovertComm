@@ -61,7 +61,7 @@ The non-convex optimisation problem is solved using a **Block Successive Convex 
 ## System Model
 
 <p align="center">
-  <img src="figures/system_model.png" width="650"/>
+  <img src="figures/system_model.png" width="600"/>
 </p>
 
 <p align="center">
