@@ -1,12 +1,14 @@
 # Aerial IRS-Enabled THz Covert Communications in B5G-IoT Networks
 
-> **MATLAB simulation code for the paper:**
-> *"Aerial Intelligent Reflecting Surface Enabled Terahertz Covert Communications in Beyond-5G Internet of Things"*
-> — Milad Tatar Mamaghani and Yi Hong, Monash University
-
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2021a%2B-blue)](https://www.mathworks.com/)
 [![CVX](https://img.shields.io/badge/CVX-2.2%2B-orange)](http://cvxr.com/cvx/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![DOI](https://img.shields.io/badge/DOI-10.1109/JIOT.2022.3163396-red.svg)](https://doi.org/10.1109/JIOT.2022.3163396)
+
+
+> **Milad Tatar Mamaghani** and Yi Hong, "[Aerial Intelligent Reflecting Surface-Enabled Terahertz Covert Communications in Beyond-5G Internet of Things](https://doi.org/10.1109/JIOT.2022.3163396)," IEEE Internet of Things Journal, vol. 9, no. 19, pp. 19012-19033, Oct., 2022.
+
+
 
 ---
 
@@ -22,7 +24,6 @@
 - [Reproducing Paper Results](#reproducing-paper-results)
 - [Missing `.mat` Files](#missing-mat-files)
 - [Citation](#citation)
-- [Contact](#contact)
 
 ---
 
@@ -345,18 +346,17 @@ See [`docs/algorithm_overview.md`](docs/algorithm_overview.md) for a detailed wa
 If you use this code in your research, please cite the following paper:
 
 ```bibtex
-@article{mamaghani2023aerial,
-  title     = {Aerial Intelligent Reflecting Surface Enabled Terahertz Covert
-               Communications in Beyond-5G Internet of Things},
-  author    = {Tatar Mamaghani, Milad and Hong, Yi},
-  journal   = {IEEE Internet of Things Journal},
-  year      = {2023},
-  publisher = {IEEE},
-  note      = {Supported by Australian Research Council (ARC) DP210100412}
+@article{mamaghani2022aerial,
+  title={Aerial intelligent reflecting surface-enabled terahertz covert communications in beyond-5G Internet of Things},
+  author={Tatar Mamaghani, Milad and Hong, Yi},
+  journal={IEEE Internet of Things Journal},
+  volume={9},
+  number={19},
+  pages={19012--19033},
+  year={2022},
+  month = {Oct.}
 }
 ```
-
-> *Please verify the exact publication details (volume, pages, DOI) from the final published version before citing.*
 
 ---
 
@@ -364,22 +364,9 @@ If you use this code in your research, please cite the following paper:
 
 This work is supported by the **Australian Research Council (ARC)** through the ARC Discovery Project **DP210100412**.
 
----
-
-## Contact
-
-| Name | Role | Email |
-|---|---|---|
-| **Milad Tatar Mamaghani** | First Author, Corresponding | milad.tatarmamaghani@monash.edu |
-| **Yi Hong** | Senior Author | yi.hong@monash.edu |
-
-**Department of Electrical and Computer Systems Engineering**
-Faculty of Engineering, Monash University, Melbourne VIC 3800, Australia
 
 ---
 
 ## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-*Copyright (c) 2023 Milad Tatar Mamaghani and Yi Hong, Monash University*
